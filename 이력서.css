@@ -1,0 +1,35 @@
+* {
+font-family: 'Nanum Myeongjo';
+}
+
+h1 {
+  font-weight: bold
+  color : black;
+  text-align: right;
+}
+
+#role {
+  font-weight: bold;
+  color: grey;
+  text-align: right;
+}
+
+h2{
+  background-color: #EEE8AA;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+img{
+  float:left;
+  margin-right: 50px;
+}
+
+#sector1{
+  margin-bottom: 180px
+}
+
+body {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
