@@ -33,3 +33,45 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.PM-text {
+  line-height: 25px;
+}
+
+.float-wrap {
+  overflow: hidden;
+}
+
+.title-text{
+  font-size:11px;
+  font-weight: bold;
+  color: #282828;
+  float: left;
+}
+
+.year-text{
+  font-size:11px;
+  font-weight: bold;
+  color: #282828;
+  float: right;
+}
+
+.desc-text {
+  font-size: 9px;
+}
+
+.desc-subtext {
+  font-size: 9px;
+  color:#282828;
+  padding-left:16px;
+}
+
+.mainbox {
+  width: 610px;
+  padding: 30px;
+  margin: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #ebebeb;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
